@@ -1,5 +1,5 @@
 # Drzewo_BST
-Najpier należy podać liczbę losowych lementów drzewa a następnie program stowry z nich drzewo BST  
+Najpierw należy podać liczbę losowych lementów drzewa a następnie program stowry z nich drzewo BST  
 na któym mozna wykonwać następujące operacje:  
 -dodanie nowego element do drzewa  
 -wyliczenie liczby węzłów na danym poziomie  
